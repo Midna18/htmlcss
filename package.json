@@ -1,0 +1,22 @@
+{
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "introduction to html and css",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midna18/htmlcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Midna18/htmlcss/issues"
+  },
+  "homepage": "https://github.com/Midna18/htmlcss#readme"
+}
